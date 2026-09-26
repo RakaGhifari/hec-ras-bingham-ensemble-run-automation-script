@@ -1,0 +1,10 @@
+numpy
+pandas
+h5py
+pywin32
+scipy
+geopandas
+rasterio
+matplotlib
+jupyter
+openpyxl
